@@ -18,7 +18,7 @@ var Info = React.createClass({displayName: 'Info',
 	},
 
 	paperStyle:{
-		backgroundColor: 'white',
+		backgroundColor: '#CCCC99',
 		height: '275px',
 		width: '400px',
 		margin: 'auto',

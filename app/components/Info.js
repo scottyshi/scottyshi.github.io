@@ -19,7 +19,7 @@ var Info = React.createClass({displayName: 'Info',
 
 	paperStyle:{
 		backgroundColor: '#CCCC99',
-		height: '275px',
+		height: '270px',
 		width: '400px',
 		margin: 'auto',
 		left: 0,
@@ -92,7 +92,7 @@ var Info = React.createClass({displayName: 'Info',
 							</IconButton>
 						</a>	
 	
-						<a href="http://google.com" target="_blank">
+						<a href="./app/files/Resume.pdf" target="_blank">
 							<IconButton tooltip="Resume" style={this.iconbuttonStyle}>
 								<Attachment />
 							</IconButton>

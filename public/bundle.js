@@ -78,7 +78,7 @@
 	
 	var container = {
 		margin: '0',
-		height: '100%',
+		height: '210px',
 		width: '100%',
 		backgroundColor: '#003366'
 	};
@@ -21570,7 +21570,7 @@
 	
 		paperStyle: {
 			backgroundColor: '#CCCC99',
-			height: '275px',
+			height: '270px',
 			width: '400px',
 			margin: 'auto',
 			left: 0,
@@ -21662,7 +21662,7 @@
 						),
 						_react2.default.createElement(
 							'a',
-							{ href: 'http://google.com', target: '_blank' },
+							{ href: './app/files/Resume.pdf', target: '_blank' },
 							_react2.default.createElement(
 								_IconButton2.default,
 								{ tooltip: 'Resume', style: this.iconbuttonStyle },
@@ -33035,7 +33035,7 @@
 				justifyContent: 'space-around'
 			},
 			gridList: {
-				width: 600,
+				width: 550,
 				overflowY: 'auto',
 				left: 0,
 				right: 0,

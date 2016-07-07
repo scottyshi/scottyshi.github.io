@@ -43,7 +43,7 @@ var Projects = React.createClass({displayName:'Projects',
 			justifyContent: 'space-around',
 		},
 		gridList: {
-			width:600,
+			width:550,
 			overflowY: 'auto',
 			left: 0,
 			right: 0,

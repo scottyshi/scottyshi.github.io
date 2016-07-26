@@ -53096,7 +53096,7 @@
 										title: tile.title,
 										actionIcon: _react2.default.createElement(
 											_IconButton2.default,
-											{ linkButton: true, href: tile.src },
+											{ tooltip: 'Code', linkButton: true, href: tile.src },
 											_react2.default.createElement(_code2.default, { color: 'white' })
 										),
 										actionPosition: 'left',
